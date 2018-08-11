@@ -1,5 +1,7 @@
 # [Linear Regression Using Python](https://en.wikipedia.org/wiki/Linear_regression)
 
+[![Python 3.6](https://img.shields.io/badge/python-3.6-green.svg)](https://www.python.org/downloads/release/python-360/)
+
 ## Click [here](https://github.com/syamkakarla98/Linear-Regression/releases) to download the code.
 
 ### Prerequisites
