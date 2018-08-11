@@ -100,7 +100,7 @@ The things that you must have a decent knowledge on:
     ![lin_reg_boston_output](https://user-images.githubusercontent.com/36328597/43992266-c0ddbc78-9d31-11e8-83bb-7076dafc4526.PNG)
 
  
-#### click here to see the program []() implementing linear regression on Diabetes dataset.
+#### click here to see the program [LinearRegression_DIABETES_Dataset.py](https://github.com/syamkakarla98/Linear-Regression/blob/master/LinearRegression_DIABETES_Dataset.py) implementing linear regression on Diabetes dataset.
 
 
 ### Conclusion 
